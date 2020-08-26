@@ -29,3 +29,5 @@ Este curso consiste de tres módulos.
    2. ¿Cómo se mueve un péndulo?
    3. ¿Cómo crece una población?
    4. Modelo del rendimiento de una cuenta de ahorro
+
+La materia consta de utilizar Jupiter notebook, github y gitkraken.
